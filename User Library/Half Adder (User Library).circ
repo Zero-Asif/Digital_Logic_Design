@@ -10,7 +10,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
   <lib desc="#Base" name="6">
     <tool name="Text Tool">
       <a name="text" val=""/>
-      <a name="font" val="SansSerif plain 12"/>
+      <a name="font" val="Times New Roman plain 12"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </tool>
@@ -31,7 +31,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <tool lib="6" name="Edit Tool"/>
     <tool lib="6" name="Text Tool">
       <a name="text" val=""/>
-      <a name="font" val="SansSerif plain 12"/>
+      <a name="font" val="Times New Roman plain 12"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </tool>
@@ -52,7 +52,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="circuit" val="main"/>
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
-    <a name="clabelfont" val="SansSerif plain 12"/>
+    <a name="clabelfont" val="Times New Roman plain 12"/>
     <wire from="(370,230)" to="(370,330)"/>
     <wire from="(400,190)" to="(400,290)"/>
     <wire from="(320,190)" to="(400,190)"/>
@@ -65,7 +65,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(370,230)" to="(440,230)"/>
     <comp lib="6" loc="(573,303)" name="Text">
       <a name="text" val="Carry"/>
-      <a name="font" val="SansSerif plain 24"/>
+      <a name="font" val="Times New Roman plain 24"/>
     </comp>
     <comp lib="1" loc="(520,210)" name="XOR Gate">
       <a name="size" val="70"/>
@@ -77,7 +77,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(569,200)" name="Text">
       <a name="text" val="Sum"/>
-      <a name="font" val="SansSerif plain 24"/>
+      <a name="font" val="Times New Roman plain 24"/>
     </comp>
     <comp lib="0" loc="(620,310)" name="Pin">
       <a name="facing" val="west"/>
@@ -94,18 +94,18 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(285,238)" name="Text">
       <a name="text" val="B"/>
-      <a name="font" val="SansSerif plain 24"/>
+      <a name="font" val="Times New Roman plain 24"/>
     </comp>
     <comp lib="0" loc="(320,190)" name="Pin">
       <a name="tristate" val="false"/>
     </comp>
     <comp lib="6" loc="(462,430)" name="Text">
       <a name="text" val="Half Adder"/>
-      <a name="font" val="SansSerif bold 40"/>
+      <a name="font" val="Times New Roman bold 40"/>
     </comp>
     <comp lib="6" loc="(286,197)" name="Text">
       <a name="text" val="A"/>
-      <a name="font" val="SansSerif plain 24"/>
+      <a name="font" val="Times New Roman plain 24"/>
     </comp>
   </circuit>
 </project>
