@@ -16,7 +16,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
   <lib desc="#Base" name="6">
     <tool name="Text Tool">
       <a name="text" val=""/>
-      <a name="font" val="SansSerif plain 12"/>
+      <a name="font" val="Times New Roman plain 12"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </tool>
@@ -37,7 +37,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <tool lib="6" name="Edit Tool"/>
     <tool lib="6" name="Text Tool">
       <a name="text" val=""/>
-      <a name="font" val="SansSerif plain 12"/>
+      <a name="font" val="Times New Roman plain 12"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </tool>
@@ -58,7 +58,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="circuit" val="main"/>
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
-    <a name="clabelfont" val="SansSerif plain 12"/>
+    <a name="clabelfont" val="Times New Roman plain 12"/>
     <wire from="(610,310)" to="(610,320)"/>
     <wire from="(610,290)" to="(610,300)"/>
     <wire from="(100,300)" to="(100,430)"/>
@@ -146,36 +146,36 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(186,514)" name="Text">
       <a name="text" val="d14"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="0" loc="(230,220)" name="Pin">
       <a name="tristate" val="false"/>
     </comp>
     <comp lib="6" loc="(679,440)" name="Text">
       <a name="text" val="S3S2"/>
-      <a name="font" val="SansSerif plain 14"/>
+      <a name="font" val="Times New Roman plain 14"/>
     </comp>
     <comp lib="6" loc="(196,96)" name="Text">
       <a name="text" val="d1"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="0" loc="(230,190)" name="Pin">
       <a name="tristate" val="false"/>
     </comp>
     <comp lib="6" loc="(100,640)" name="Text">
       <a name="text" val="S1S0"/>
-      <a name="font" val="SansSerif plain 14"/>
+      <a name="font" val="Times New Roman plain 14"/>
     </comp>
     <comp lib="0" loc="(230,250)" name="Pin">
       <a name="tristate" val="false"/>
     </comp>
     <comp lib="6" loc="(196,66)" name="Text">
       <a name="text" val="d0"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="6" loc="(194,325)" name="Text">
       <a name="text" val="d8"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="0" loc="(230,60)" name="Pin">
       <a name="tristate" val="false"/>
@@ -191,26 +191,26 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(195,286)" name="Text">
       <a name="text" val="d7"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="6" loc="(194,255)" name="Text">
       <a name="text" val="d6"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="6" loc="(186,546)" name="Text">
       <a name="text" val="d15"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="6" loc="(194,157)" name="Text">
       <a name="text" val="d3"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="2" loc="(370,110)" name="Multiplexer">
       <a name="select" val="2"/>
     </comp>
     <comp lib="6" loc="(188,457)" name="Text">
       <a name="text" val="d12"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="0" loc="(230,540)" name="Pin">
       <a name="tristate" val="false"/>
@@ -220,14 +220,14 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(194,196)" name="Text">
       <a name="text" val="d4"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="0" loc="(230,510)" name="Pin">
       <a name="tristate" val="false"/>
     </comp>
     <comp lib="6" loc="(571,648)" name="Text">
       <a name="text" val="16-to-1 MUX using 4-to-1 MUX"/>
-      <a name="font" val="SansSerif bold 31"/>
+      <a name="font" val="Times New Roman bold 31"/>
     </comp>
     <comp lib="0" loc="(230,410)" name="Pin">
       <a name="tristate" val="false"/>
@@ -246,19 +246,19 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(191,357)" name="Text">
       <a name="text" val="d9"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="6" loc="(187,417)" name="Text">
       <a name="text" val="d11"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="6" loc="(195,227)" name="Text">
       <a name="text" val="d5"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="6" loc="(187,387)" name="Text">
       <a name="text" val="d10"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="2" loc="(700,310)" name="Multiplexer">
       <a name="select" val="2"/>
@@ -282,11 +282,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(194,126)" name="Text">
       <a name="text" val="d2"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="6" loc="(187,488)" name="Text">
       <a name="text" val="d13"/>
-      <a name="font" val="SansSerif plain 18"/>
+      <a name="font" val="Times New Roman plain 18"/>
     </comp>
     <comp lib="0" loc="(230,450)" name="Pin">
       <a name="tristate" val="false"/>
