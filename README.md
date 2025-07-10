@@ -20,7 +20,7 @@ To run or edit these `.circ` files on your computer, you will need the following
 2.  Download the **Logisim** software. It is a standalone application and does not require a formal installation process.
 3.  Clone this repository to your local machine using the following command:
     ```bash
-    git clone [https://github.com/Zero-Asif/Digital_Logic_Design.git](https://github.com/Zero-Asif/Digital_Logic_Design.git)
+    git clone https://github.com/Zero-Asif/Digital_Logic_Design.git
     ```
     Alternatively, you can download the project as a ZIP file by clicking on **Code > Download ZIP**.
 
