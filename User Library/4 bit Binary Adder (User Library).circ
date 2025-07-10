@@ -16,7 +16,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
   <lib desc="#Base" name="6">
     <tool name="Text Tool">
       <a name="text" val=""/>
-      <a name="font" val="SansSerif plain 12"/>
+      <a name="font" val="Times New Roman plain 12"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </tool>
@@ -38,7 +38,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <tool lib="6" name="Edit Tool"/>
     <tool lib="6" name="Text Tool">
       <a name="text" val=""/>
-      <a name="font" val="SansSerif plain 12"/>
+      <a name="font" val="Times New Roman plain 12"/>
       <a name="halign" val="center"/>
       <a name="valign" val="base"/>
     </tool>
@@ -59,7 +59,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="circuit" val="main"/>
     <a name="clabel" val=""/>
     <a name="clabelup" val="east"/>
-    <a name="clabelfont" val="SansSerif plain 12"/>
+    <a name="clabelfont" val="Times New Roman plain 12"/>
     <wire from="(250,290)" to="(250,420)"/>
     <wire from="(500,270)" to="(500,340)"/>
     <wire from="(500,270)" to="(560,270)"/>
@@ -128,7 +128,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(118,442)" name="Text">
       <a name="text" val="C3"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="7" loc="(340,370)" name="main">
       <a name="facing" val="south"/>
@@ -156,7 +156,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(366,362)" name="Text">
       <a name="text" val="FA2"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="0" loc="(870,160)" name="Pin">
       <a name="facing" val="south"/>
@@ -164,11 +164,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(730,36)" name="Text">
       <a name="text" val="A0"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="6" loc="(497,615)" name="Text">
       <a name="text" val="4-bit Binary Adder/Subtractor"/>
-      <a name="font" val="SansSerif bold 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="0" loc="(680,480)" name="Pin">
       <a name="facing" val="north"/>
@@ -181,23 +181,23 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(338,519)" name="Text">
       <a name="text" val="S2"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="6" loc="(390,35)" name="Text">
       <a name="text" val="A2"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="6" loc="(707,363)" name="Text">
       <a name="text" val="FA0"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="6" loc="(870,135)" name="Text">
       <a name="text" val="C"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="6" loc="(678,519)" name="Text">
       <a name="text" val="S0"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="0" loc="(340,60)" name="Pin">
       <a name="facing" val="south"/>
@@ -205,7 +205,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(632,441)" name="Text">
       <a name="text" val="C0"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="1" loc="(150,220)" name="XOR Gate">
       <a name="facing" val="south"/>
@@ -213,7 +213,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(535,362)" name="Text">
       <a name="text" val="FA1"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="7" loc="(170,370)" name="main">
       <a name="facing" val="south"/>
@@ -227,7 +227,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(993,245)" name="Text">
       <a name="text" val="C = 0, Adder"/>
-      <a name="font" val="SansSerif bold 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="0" loc="(510,480)" name="Pin">
       <a name="facing" val="north"/>
@@ -236,7 +236,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(562,36)" name="Text">
       <a name="text" val="A1"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="7" loc="(680,370)" name="main">
       <a name="facing" val="south"/>
@@ -256,11 +256,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(170,37)" name="Text">
       <a name="text" val="B3"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="6" loc="(1014,279)" name="Text">
       <a name="text" val="C = 1, Subtractor"/>
-      <a name="font" val="SansSerif bold 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="0" loc="(510,60)" name="Pin">
       <a name="facing" val="south"/>
@@ -268,15 +268,15 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(508,519)" name="Text">
       <a name="text" val="S1"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="6" loc="(461,441)" name="Text">
       <a name="text" val="C1"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="6" loc="(168,519)" name="Text">
       <a name="text" val="S3"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="0" loc="(390,60)" name="Pin">
       <a name="facing" val="south"/>
@@ -284,15 +284,15 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(340,37)" name="Text">
       <a name="text" val="B2"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="6" loc="(220,37)" name="Text">
       <a name="text" val="A3"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="6" loc="(291,441)" name="Text">
       <a name="text" val="C2"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="0" loc="(730,60)" name="Pin">
       <a name="facing" val="south"/>
@@ -300,7 +300,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(196,363)" name="Text">
       <a name="text" val="FA3"/>
-      <a name="font" val="SansSerif plain 20"/>
+      <a name="font" val="Times New Roman plain 20"/>
     </comp>
     <comp lib="0" loc="(220,60)" name="Pin">
       <a name="facing" val="south"/>
